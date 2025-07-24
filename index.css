@@ -13,7 +13,11 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
+/**
+    * This is the main CSS file for the Todo List application.
+    * It styles the background, headings, and various components of the app.
+    */  
+*/
 .create-task-heading {
     font-family: "Roboto";
     font-size: 32px;

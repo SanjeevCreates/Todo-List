@@ -10,8 +10,11 @@ function getTodoListFromLocalStorage() {
     } else {
         return parsedTodoList;
     }
-}
-
+};
+/**  
+ * Multi-line comment
+ * 
+ */
 let todoList = getTodoListFromLocalStorage();
 let todosCount = todoList.length;
 
