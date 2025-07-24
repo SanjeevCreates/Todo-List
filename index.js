@@ -133,7 +133,8 @@ function createAndAppendTodo(todo) {
     };
 
     deleteIconContainer.appendChild(deleteIcon);
-}
+};
+
 
 for (let todo of todoList) {
     createAndAppendTodo(todo);
